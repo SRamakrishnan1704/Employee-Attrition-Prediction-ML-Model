@@ -1,6 +1,6 @@
-README.md for IBM Employee Attrition Prediction Project
+README.md for Employee Attrition Prediction Project
 
-This project analyzes the IBM HR dataset to predict employee attrition (Yes/No via Random Forest) and performance ratings (via Linear Regression), deployed as a Streamlit dashboard. It uses 15 key features from the dataset and includes top/bottom performer visualizations.
+This project analyzes the Company HR dataset to predict employee attrition (Yes/No via Random Forest) and performance ratings (via Linear Regression), deployed as a Streamlit dashboard. It uses 15 key features from the dataset and includes top/bottom performer visualizations.
 
 Project Overview
 Built for HR analytics, this ML pipeline preprocesses data, trains models, saves artifacts (pipelines and features), and serves predictions interactively. Key components include EDA, feature engineering with scaling/encoding, and a production-ready Streamlit app at D:/Ramakrishnan S/Guvi/Visual studio/My Project foler/Employee_Prediction/app/.
